@@ -1,10 +1,10 @@
-# Blockchain-Jobs
+# Blockchain Jobs
 
-At Block360, understand the ever evolving and reactive nature of Blockchain, and as such have dedicated researchers to continually explore and expand the horizons of this technology. With this exclusive knowledge, Block360 offer services designed to optimize businesses and arm them with the bleeding edge required to overcome competition. You will work alongside a world-class technical & research team who value out-of-the-box thinking and embrace a highly collaborative environment. Block360 is supportive of our engineers and researchers being active and speaking in their technical communities globally.
+At Block360, we understand the ever evolving and reactive nature of Blockchain, and as such have dedicated researchers to continually explore and expand the horizons of this technology. With this exclusive knowledge, Block360 offer services designed to optimize businesses and arm them with the bleeding edge required to overcome competition. You will work alongside a world-class technical & research team who value out-of-the-box thinking and embrace a highly collaborative environment. Block360 is supportive of our engineers and researchers being active and speaking in their technical communities globally.
 
 Come and join us to improve the future and performance of businesses with the help of blockchain ecosystem.
 
-## Currently Job Oppenings
+## Current Job Openings
 
 ### UX Developer
 Islamabad, Pakistan
@@ -27,7 +27,7 @@ on include (but are not limited to):
 - Demonstrate empathy and care for end-users in work and thought
 - Focus on building elegant and functional front-end experiences
 
-#### Qualification & Experience
+#### Qualifications & Experience
 - Proficiency in HTML, CSS, and JavaScript for rapid prototyping.
 - Hands-on experience creating wireframes, prototypes, storyboards, user flows, etc.
 - Experience using tools such as Photoshop, Sketch, Illustrator, InVision, UXPin, Quartz.

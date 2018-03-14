@@ -6,11 +6,11 @@ Come and join us to improve the future and performance of businesses with the he
 
 ## Current Job Openings
 
-### UX Developer
+### Web Developer
 Islamabad, Pakistan
 
-We are looking for a motivated and fresh UX designer who will lead the creative process of
-designing the interface around our developer tools and user applications. Projects you will work
+We are looking for a motivated web developer who will perform the creative process of
+transforming designs into responsive web pages. Projects you will work
 on include (but are not limited to):
 
 - Web Apps
@@ -19,20 +19,39 @@ on include (but are not limited to):
 - Various websites/landing pages run by Block360
 
 #### Responsibilities in this role
-- Translate business requirements and technical goals into user flows, wireframes, mockups and prototypes that lead to intuitive user experiences
-- Recommend system changes/enhancements and facilitate agreement from the appropriate stakeholder communities
-- Support research, analysis and development of unscoped implementations
-- Define, receive, monitor, and deliver tasks autonomously, working independently with afocus on collaboration
-- Implement the design using CSS and relevant UI technologies
-- Demonstrate empathy and care for end-users in work and thought
-- Focus on building elegant and functional front-end experiences
+- Write well designed, testable, efficient code by using best software development practices
+- Gather and refine specifications and requirements based on technical needs
+- Optimization of the application for maximum speed and scalability 
+- Translation of UI/UX wireframes to visual elements
+- Integration of the front-end and back-end aspects of the web application
+- Creating website layout/user interfaces by using standard HTML/CSS practices
+- Implementation of security and data protection
 
 #### Qualifications & Experience
-- Proficiency in HTML, CSS, and JavaScript for rapid prototyping.
-- Hands-on experience creating wireframes, prototypes, storyboards, user flows, etc.
-- Experience using tools such as Photoshop, Sketch, Illustrator, InVision, UXPin, Quartz.
-- A good design portfolio to showcase expertise in the area
-- A clear understanding of the importance of user-centered design and design thinking
-- Ability to distill complex processes into simple, clear, user interactions
-- Good visual standards and obsessive attention to detail
-- Good written communication & documentation skills preferred
+- Candidate must have a strong understanding of UI, cross-browser compatibility, general web functions and standards
+- Solid Understanding of HTML5/CSS3, jQuery and Responsive Design
+- Familiarity with at least one of the following programming languages: PHP, Node.js or Ruby on Rails
+- A solid understanding of how web applications work including security, session management, and best development practices
+- Basic knowledge of SEO
+- Working knowledge of an SPA framework like AngularJS or Vue.js would be an added bonus
+
+### Technical Researcher
+Islamabad, Pakistan
+
+We are looking for a technical researcher who will perform research to solve technical challenges in blockchain technology. Researcher will write whitepapers and blogs to keep Block360 followers updated with on going trends and challenges in domain.
+
+#### Responsibilities in this role
+- Candidates should have a strong technical background, as they will be expected to grasp complex concepts and technologies quickly
+- Write and contribute to publications (both academic research and business-oriented papers)
+- Should possess decisive reasoning to determine the best course of action in their research
+- Conduct literature reviews and present findings
+- May be required to develop prototypes, depending on the project they are engaged in.
+- May lead or guide the work of student employees
+
+#### Qualifications & Experience
+- Enrolled in any IT-related MS program
+- Good grammar and technical writing skills
+- Having existing research publications is a plus, although any unpublished samples of their work would do just as well
+- Good organizational skills to collate material from multiple sources and produce well-researched content
+- Should be keen to learn new technologies and should pay attention to details
+- Programming skills or experience would be an added bonus
